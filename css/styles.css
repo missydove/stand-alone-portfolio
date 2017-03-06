@@ -1,9 +1,18 @@
+@import 'normalize';
+@import 'lightgallery.min';
+@import 'lg-transition.min';
+
+
+
+
+
 /********************
 YOUR STYLES
 *******************/
-
-
-
+figure {
+    background: yellow;
+    width: 40%;
+}
 
 /********************
 MEDIA QUERIES
