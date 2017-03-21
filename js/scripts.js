@@ -1,6 +1,7 @@
 // YOUR SCRIPTS GO HERE
-$('figure').lightGallery({
-    selector: 'a',
-    mode:'lg-zoom-out-in'
-});
 
+ 
+      $(document).ready(function () {
+    $('#lightgallery').lightGallery({ pager: true });
+});      
+     
